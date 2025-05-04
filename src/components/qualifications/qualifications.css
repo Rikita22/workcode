@@ -85,7 +85,7 @@
   }
   
   @media screen and (max-width: 576px) {
-    .qualifications_sections{
+    .qualifications__sections{
         grid-template-columns: initial;
     }
     .qualifications__button{
