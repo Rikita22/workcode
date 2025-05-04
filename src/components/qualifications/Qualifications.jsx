@@ -57,7 +57,7 @@ const Qualifications = () => {
                 <div className="qualifications__data">
                     <div>
                         <h3 className="qualifications__title">Bachalors of Technology(IT)</h3>
-                        <span className="qualifications__subtitle">MCKV Insttitre of Engineering</span>
+                        <span className="qualifications__subtitle">MCKV Institute of Engineering</span>
                         <div className="qualifications__calender">
                         <div>9.23 CGPA</div>
                             <i className="uil uil-calendar-alt"></i> 2019-23
