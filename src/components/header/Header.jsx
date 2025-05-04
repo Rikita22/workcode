@@ -13,7 +13,7 @@ const Header = () => {
   return (
     <header className='header'>
         <nav className='nav container'>
-        <div class="badge-base LI-profile-badge" className='nav__logo' data-vanity="rikita-k-9bbb66243" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rikita-k-9bbb66243?trk=profile-badge">Rikita</a></div>
+        <div class="badge-base LI-profile-badge" className='nav__logo' data-vanity="rikita-k-9bbb66243" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rikita-k-9bbb66243?trk=profile-badge">Rikita K</a></div>
             {/* <a href='index.html' className='nav__logo'>Rikita</a> */}
     <div className={Toggle?"nav__menu show-menu":"nav__menu"}>
         <ul className='nav__list'>
